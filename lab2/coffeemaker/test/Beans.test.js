@@ -1,0 +1,1 @@
+const Beans = artifacts.require("Beans")
