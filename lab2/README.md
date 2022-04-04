@@ -1,5 +1,5 @@
-#Beans (BNS)
-##ERC20 Token For NYCU Coffee Club
+# Beans (BNS)
+## ERC20 Token For NYCU Coffee Club
 
 Hello there! I’m **Hong, Kai-Yin**, ECE student from NYCU!!
 
@@ -35,7 +35,7 @@ npm install @truffle/hdwallet-provider
 ![](./public/file_structure.jpg)
 ---
 ### TDD Development
-####Create test cases first before dive into developent.
+#### Create test cases first before dive into developent.
  - Check if creator have 1M BNS token after deploying smart contract.
  - Check if receivor get 1000 BNS token after transfering token.
 
@@ -65,7 +65,7 @@ contract("Beans", (accounts) => {
     })
 })
 ```
-####Useful commandline
+#### Useful commandline
 
 ```
 truffle test
@@ -78,7 +78,7 @@ truffle test --network rinkeby
 ### ERC20 token
 
 #### Beans is inherited from ERC20.sol from Openzeppelin library!
-#####Interface of the ERC20 standard
+##### Interface of the ERC20 standard
 - 6 Functions:
 	- totalSupply()
 	- balanceOf(account)
