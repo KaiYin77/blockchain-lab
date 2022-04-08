@@ -1,5 +1,5 @@
-#BeanNFT
-                                              NYCU Coffee Club NFT
+# BeanNFT
+	NYCU Coffee Club NFT
 
 Hello there! I’m **Hong, Kai-Yin**, ECE student from NYCU!!
 
@@ -38,7 +38,7 @@ truffle migrate --network rinkeby
 ### ERC721 Non-fungible token
 
 #### BeanNFT is inherited from ERC721URIStorage.sol from Openzeppelin library!
-#####ERC721URIStorage 
+##### ERC721URIStorage 
 - is an implementation of ERC721 that includes the metadata standard extensions (IERC721Metadata) as well as a mechanism for per-token metadata. That’s where the _setTokenURI method comes from: we use it to store an item’s metadata.
 - a more flexible but more expensive way of storing metadata.
 
