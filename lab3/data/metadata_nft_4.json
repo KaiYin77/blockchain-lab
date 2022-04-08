@@ -1,0 +1,15 @@
+{
+    "attributes":[
+        {
+            "trait_type": "Club",
+            "value": "NYCU Coffee Club"
+        },
+        {
+            "trait_type": "Type",
+            "value": "text"
+        }
+    ],
+    "description": "Coffee club from NYCU",
+    "image": "https://ipfs.io/ipfs/QmWMNhHivxjEVvE93JWb2VqcsJuL3fYjctjSpAUAWgXpKA",
+    "name": "NYCU Coffee Club"
+}

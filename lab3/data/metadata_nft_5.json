@@ -1,0 +1,15 @@
+{
+    "attributes":[
+        {
+            "trait_type": "AD",
+            "value": "Meme"
+        },
+        {
+            "trait_type": "Type",
+            "value": "text"
+        }
+    ],
+    "description": "A meme",
+    "image": "https://ipfs.io/ipfs/QmanRt7M6JAnr5smMVtpdzud2aVrXTyZr83KQXd5oeWrgN",
+    "name": "Meme From NYCU Coffee Club"
+}

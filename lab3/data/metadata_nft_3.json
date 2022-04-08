@@ -1,0 +1,15 @@
+{
+    "attributes":[
+        {
+            "trait_type": "Coffee Beans",
+            "value": "Ethiopia Yirgacheffe"
+        },
+        {
+            "trait_type": "Type",
+            "value": "text"
+        }
+    ],
+    "description": "A coffee bean from Ethiopia.",
+    "image": "https://ipfs.io/ipfs/QmbMBwZiStfYmPJCf1kYexcrjg5Hmemg9DdDVtVBo3DY5z",
+    "name": "Yirgacheffe"
+}

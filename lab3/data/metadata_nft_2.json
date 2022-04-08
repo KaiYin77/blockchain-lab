@@ -1,0 +1,15 @@
+{
+    "attributes":[
+        {
+            "trait_type": "Equipment",
+            "value": "Hario Switch"
+        },
+        {
+            "trait_type": "Type",
+            "value": "text"
+        }
+    ],
+    "description": "Hario Switch: dripper",
+    "image": "https://ipfs.io/ipfs/Qmf7t3c1AtR7PwryRNSjTPxRVjJKEs1zExQPRfGsTTAnRY",
+    "name": "Switch"
+}
