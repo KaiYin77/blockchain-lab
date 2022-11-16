@@ -1,4 +1,4 @@
-# Blockchain_lab
+# 2022 blockchain coursework
 My repository for Blockchain Principles and Applications
 
 ## Useful Command
